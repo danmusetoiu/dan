@@ -21,4 +21,4 @@ Fie in CentOS 7 fie direct pe MAcBook Air
 ```
 ## Hai, sa fiti sanatosi!
 
-Si mai puneti mana pe carte: https://github.com/danmusetoiu/hack - Hands ON, dude!
+Si mai puneti mana pe [carte:] (https://github.com/danmusetoiu/hack)
