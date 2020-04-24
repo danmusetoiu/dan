@@ -1,25 +1,21 @@
-## Welcome to GitHub Pages
+## Salutare, natiune!
 
-You can use the [editor on GitHub](https://github.com/danmusetoiu/dan/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Cam pe-aici o sa gasiti proiectele mele cele mai importante (aka dintre cele publice)
+Tot pe-aici o sa incerc sa tin si un fel de curs, ca vad ca sunt destui cei care s-au saturat sa le fie bine :D
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Pana atunci...
 
-### Markdown
+Hai sa fac enum
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
+### Python
 
-```markdown
-Syntax highlighted code block
+- Data Science
+- Machine Learning
+- Deep Learning
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- Pentesting
+- OSINT
 
 **Bold** and _Italic_ and `Code` text
 
